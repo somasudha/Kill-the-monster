@@ -9,7 +9,7 @@ box16,box17,box18,box19,box20,box21,box22,box23,box24,box25;
 var hero,monster,rope,ground;
 
 function preload() {
-  bg = loadImage("gamingbackground2.png");
+  bg = loadImage("Screenshot 2021-07-27 3.13.23 PM.png");
 }
 
 function setup() {
